@@ -1,8 +1,8 @@
 # Autonomous-Rover
 
-[image1]: ./Images/Rover_Maze.JPG "Rover in the maze"
-[image2]: ./Images/Rover.JPG "Rover"
-[image3]: ./Images/Localization.JPG "Localization"
+[image1]: ./Images/Rover_Maze.jpg "Rover in the maze"
+[image2]: ./Images/Rover.jpg "Rover"
+[image3]: ./Images/Localization.jpg "Localization"
 
 The goal of the project is to design and build a rover that can navigate a given maze without contacting the maze walls, locate itself within the maze, pick up an object, and drop it off in a designated area of the maze. The video above documents our final test.
 
